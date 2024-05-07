@@ -1,0 +1,3 @@
+Preorder: ¿Es un animal?,¿Vuela?,None,camina y es carnivoro,None,es acuatico y carnivoro,None,se arrastra y es venenosa,None,None,¿Tiene cuatro patas?,None,tiene cuatro ruedas,None,tiene dos ruedas,None,None,
+Inorder: None,¿Vuela?,None,camina y es carnivoro,None,es acuatico y carnivoro,None,se arrastra y es venenosa,None,¿Es un animal?,None,¿Tiene cuatro patas?,None,tiene cuatro ruedas,None,tiene dos ruedas,None,
+Postorder: None,None,None,None,None,se arrastra y es venenosa,es acuatico y carnivoro,camina y es carnivoro,¿Vuela?,None,None,None,None,tiene dos ruedas,tiene cuatro ruedas,¿Tiene cuatro patas?,¿Es un animal?,

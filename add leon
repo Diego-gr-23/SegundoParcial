@@ -1,0 +1,3 @@
+Preorder: ¿Es un animal?,¿Vuela?,None,camina y es carnivoro,None,None,¿Tiene cuatro patas?,None,None,
+Inorder: None,¿Vuela?,None,camina y es carnivoro,None,¿Es un animal?,None,¿Tiene cuatro patas?,None,
+Postorder: None,None,None,camina y es carnivoro,¿Vuela?,None,None,¿Tiene cuatro patas?,¿Es un animal?,

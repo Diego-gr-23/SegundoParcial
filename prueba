@@ -1,0 +1,3 @@
+Preorder: ¿Es un animal? ¿Vuela? None None ¿Tiene cuatro patas? None Se mueve, pero no come ni respira None None 
+Inorder: None ¿Vuela? None ¿Es un animal? None ¿Tiene cuatro patas? None Se mueve, pero no come ni respira None 
+Postorder: None None ¿Vuela? None None None Se mueve, pero no come ni respira ¿Tiene cuatro patas? ¿Es un animal? 
